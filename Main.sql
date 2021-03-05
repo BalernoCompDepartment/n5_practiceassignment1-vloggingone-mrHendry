@@ -1,8 +1,5 @@
 /* do not change the following three lines! */
 .header on
 .mode column
-.read emptyVlogging.sql
+PRAGMA foreign_keys = ON;
 /* do not change the above three lines! */
-
-/* Adding validation to the table from the datadictionary*/
-
